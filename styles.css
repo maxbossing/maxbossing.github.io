@@ -1,0 +1,38 @@
+body {
+    background-color: #b3ffb3;
+    
+}
+
+pre {
+    text-align: center;
+    color: black; 
+    font-family: courier; 
+    border:2px solid #ffb3ff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+p { 
+    text-align: center;
+    color: black; 
+    font-size: large;
+    font-family: courier; 
+    border:2px solid #7a89b4;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+h1 {
+    text-align: center;
+    color: #b83974;
+    font-family: verdana; 
+    font-size: 45px;
+    }
+
+a {
+    text-decoration: none;
+}
