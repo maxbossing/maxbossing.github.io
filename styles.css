@@ -4,7 +4,7 @@ body {
 
 pre {
     text-align: center;
-    color: white; 
+    color: #000000; 
     font-family: courier; 
     border:2px solid #ffb3ff;
     padding-top: 50px;
@@ -18,7 +18,7 @@ p {
     color: white; 
     font-size: large;
     font-family: courier; 
-    border:2px solid #7a89b4;
+    border:2px solid #000000;
     padding-top: 50px;
     padding-bottom: 50px;
     margin-left: 75px;
