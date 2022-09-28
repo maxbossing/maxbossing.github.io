@@ -35,3 +35,15 @@ h1 {
 a {
     text-decoration: none;
 }
+
+.cdn {
+    text-align: center;
+    color: black; 
+    font-size: large;
+    font-family: courier; 
+    border:2px solid #bb9ff8;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
